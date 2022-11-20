@@ -1,0 +1,12 @@
+@mixin listStyle {
+    text-decoration: none;
+    list-style-type: none;
+}
+@mixin btn {
+    align-items: center;
+    padding: 8px 16px;
+    background-color: $lightBlue;
+    color:white;
+    border-radius:6px;
+    border: none;
+}
